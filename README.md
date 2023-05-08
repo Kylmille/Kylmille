@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kylmille
+- 👋 Hi, I’m Kyle Miller, Junior Software Developer
 - 👀 I’m interested in sports and the outdoors
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Full Stack software engineering!
