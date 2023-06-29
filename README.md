@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kyle M, Junior Software Developer
+- 👋 Hi, I’m Kyle M, Junior Software Engineer
 - 👀 I’m interested in sports and the outdoors
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Full Stack projects!
